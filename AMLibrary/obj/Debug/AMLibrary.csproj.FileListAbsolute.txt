@@ -1,0 +1,22 @@
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\obj\Debug\AMLibrary.csproj.AssemblyReference.cache
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\obj\Debug\AMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Debug\AMLibrary.dll
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Debug\AMLibrary.pdb
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Debug\Dapper.dll
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Debug\Dapper.xml
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\obj\Debug\AMLibrary.csproj.CopyComplete
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\obj\Debug\AMLibrary.dll
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\obj\Debug\AMLibrary.pdb
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\bin\Debug\AMLibrary.dll
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\bin\Debug\AMLibrary.pdb
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\bin\Debug\Dapper.dll
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\bin\Debug\Dapper.xml
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\obj\Debug\AMLibrary.csproj.AssemblyReference.cache
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\obj\Debug\AMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\obj\Debug\AMLibrary.csproj.CopyComplete
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\obj\Debug\AMLibrary.dll
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\AMLibrary\obj\Debug\AMLibrary.pdb

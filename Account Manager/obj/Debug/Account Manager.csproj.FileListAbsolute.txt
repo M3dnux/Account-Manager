@@ -1,0 +1,40 @@
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.AssemblyReference.cache
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Debug\Account_Manager.AccountManager.resources
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Debug\Account_Manager.Properties.Resources.resources
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Debug\Account_ManagerDB.db
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Debug\Account Manager.exe.config
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Debug\Account Manager.exe
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Debug\Account Manager.pdb
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Debug\AMLibrary.dll
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Debug\Dapper.dll
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Debug\AMLibrary.pdb
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Debug\System.Data.SQLite.xml
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Debug\Dapper.xml
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Debug\Account Manager.exe
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Debug\Account Manager.pdb
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Debug\Account_Manager.UserForm.resources
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.AssemblyReference.cache
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\obj\Debug\Account_Manager.AccountManager.resources
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\obj\Debug\Account_Manager.UserForm.resources
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\obj\Debug\Account Manager.exe
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\obj\Debug\Account Manager.pdb
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\bin\Debug\Account_ManagerDB.db
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\bin\Debug\Account Manager.exe.config
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\bin\Debug\Account Manager.exe
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\bin\Debug\Account Manager.pdb
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\bin\Debug\AMLibrary.dll
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\bin\Debug\Dapper.dll
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\bin\Debug\AMLibrary.pdb
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\bin\Debug\System.Data.SQLite.xml
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\bin\Debug\Dapper.xml
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\obj\Debug\Account_Manager.Properties.Resources.resources
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\M3dnux\Desktop\Account Manager24_12\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.CopyComplete

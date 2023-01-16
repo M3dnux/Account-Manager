@@ -1,0 +1,20 @@
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Release\Account_ManagerDB.db
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Release\Account Manager.exe.config
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Release\Account Manager.exe
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Release\Account Manager.pdb
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Release\AMLibrary.dll
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Release\System.Data.SQLite.dll
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Release\Dapper.dll
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Release\AMLibrary.pdb
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Release\System.Data.SQLite.xml
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\bin\Release\Dapper.xml
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Release\Account Manager.csproj.AssemblyReference.cache
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Release\Account Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Release\Account_Manager.AccountManager.resources
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Release\Account_Manager.Properties.Resources.resources
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Release\Account_Manager.UserForm.resources
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Release\Account Manager.csproj.GenerateResource.cache
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Release\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Release\Account Manager.csproj.CopyComplete
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Release\Account Manager.exe
+C:\Users\M3dnux\Desktop\Account Manager\Account Manager\obj\Release\Account Manager.pdb

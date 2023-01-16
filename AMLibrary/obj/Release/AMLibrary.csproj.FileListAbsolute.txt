@@ -1,0 +1,11 @@
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Release\AMLibrary.dll
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Release\AMLibrary.pdb
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Release\Dapper.dll
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Release\System.Data.SQLite.dll
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Release\Dapper.xml
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\bin\Release\System.Data.SQLite.xml
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\obj\Release\AMLibrary.csproj.AssemblyReference.cache
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\obj\Release\AMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\obj\Release\AMLibrary.csproj.CopyComplete
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\obj\Release\AMLibrary.dll
+C:\Users\M3dnux\Desktop\Account Manager\AMLibrary\obj\Release\AMLibrary.pdb
