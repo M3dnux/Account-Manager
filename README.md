@@ -28,6 +28,12 @@ Account Manager is perfect for people who have multiple accounts on different pl
 
 ![App Screenshot](Screenshots/5.png)
 
+
+## Technologies Used
+- .NET Framework
+- Dapper
+- SQLite
+
   
 ## Run Locally
 
