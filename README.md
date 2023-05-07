@@ -22,11 +22,11 @@ Account Manager is perfect for people who have multiple accounts on different pl
 
 ## Screenshots
 
-![App Screenshot](/Screenshots/1.jpg)
+![App Screenshot](Screenshots/1.png)
 
-![App Screenshot](/Screenshots/3.jpg)
+![App Screenshot](Screenshots/3.jpg)
 
-![App Screenshot](/Screenshots/5.jpg)
+![App Screenshot](Screenshots/5.jpg)
 
   
 ## Run Locally
