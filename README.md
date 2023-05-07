@@ -12,7 +12,7 @@ Account Manager is a desktop app that helps you keep all your login credentials 
 - Secure storage: All the login credentials are stored securely on your device, and no one else can access them without your permission.
 - Edit account details: You can modify account details like username, password, and email address in Account Manager.
 - Delete accounts: You can delete accounts that are no longer in use or if you want to remove them for any other reason.
-- Quick search: You can easily search for a specific account by typing in the platform name or username.
+- Quick search: You can easily search for a specific account by typing in the platform name.
 
 
 ## Who is it for ?
@@ -22,47 +22,34 @@ Account Manager is perfect for people who have multiple accounts on different pl
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/Screenshots/1.jpg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/Screenshots/3.jpg)
 
-## Installation
+![App Screenshot](/Screenshots/5.jpg)
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
+  
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/M3dnux/Account-Manager.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Account-Manager
 ```
 
-Install dependencies
+Execute the application
 
 ```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
+  start "" "Account Manager\bin\Release\Account Manager.exe"
 ```
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
-
+If you have any feedback, please reach out to me at walha_med.ali@outlook.fr
