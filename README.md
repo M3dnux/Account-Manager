@@ -53,6 +53,9 @@ Execute the application
 
 ```bash
   cd Account Manager\bin\Release
+```
+
+```bash
   start "" "Account Manager.exe"
 ```
 
