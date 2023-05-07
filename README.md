@@ -33,20 +33,20 @@ Account Manager is perfect for people who have multiple accounts on different pl
 
 Clone the project
 
-```bash
-  git clone https://github.com/M3dnux/Account-Manager.git
+```console
+git clone https://github.com/M3dnux/Account-Manager.git
 ```
 
 Go to the project directory
 
-```bash
-  cd Account-Manager
+```console
+cd Account-Manager
 ```
 
 Execute the application
 
-```bash
-  start "" "Account Manager\bin\Release\Account Manager.exe"
+```console
+start "" "Account Manager\bin\Release\Account Manager.exe"
 ```
 
 
